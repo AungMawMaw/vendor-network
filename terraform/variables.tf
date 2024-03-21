@@ -1,7 +1,7 @@
 variable "aws_region" {}
 
 variable "app_name" {
-  description: "name of app"
+  description= "name of app"
   default= "vendor-network"
 }
 
