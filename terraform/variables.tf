@@ -16,5 +16,3 @@ variable "private_subnets" {
 variable "availability_zones" {
   default: ["ap-southeast-1a", "ap-southeast-1b"]
 }
-
-
